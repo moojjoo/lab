@@ -4,3 +4,7 @@
 
 - Kubernetes
 - DOTNET APIs
+    * Simple API
+    * Added Entity.CORE framework
+    * SWAGGER
+    * VERBS GET, POST, PUT, DELETE
