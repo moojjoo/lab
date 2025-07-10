@@ -7,4 +7,4 @@
     * Simple API
     * Added Entity.CORE framework
     * SWAGGER
-    * VERBS GET, POST, PUT, DELETE
+    * VERBS: GET, POST, PUT, DELETE
